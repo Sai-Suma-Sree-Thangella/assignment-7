@@ -12,6 +12,10 @@ CRN : 22280
 mail- sxt85020@ucmo.edu
 
 
+Short description:
+
+
+First, the baseline model is modified and hyperparameters are adjusted to improve validation accuracy and minimise loss. The effect of each tweak on the behaviour of the model is thoroughly examined. More Matplotlib visualisations provide additional insights. After applying baseline models to a selected dataset for comparison, the updated architecture is put into practice and training is conducted. Tests on an independent testing set validate the effectiveness of the model. The improved model is stored for use in upcoming forecasts. Comprehensive overviews are provided by key metrics like loss/accuracy charts and confusion matrices. A more sophisticated model with enhanced performance and adaptability is the result of this iterative process.
 
 
 
